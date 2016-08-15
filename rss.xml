@@ -4,7 +4,7 @@
         <description><![CDATA[Roland Kayn]]></description>
         <link>https://thegrid.ai/roland-kayn/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 15 Aug 2016 11:59:33 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 15 Aug 2016 11:59:10 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/roland-kayn/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Roland Kayn]]></title>
@@ -19,6 +19,20 @@
             <link>https://thegrid.ai/roland-kayn/roland-kayn/index.html</link>
             <guid isPermaLink="false">9178bc43-b26b-4897-9dd9-862511c557c7</guid>
             <pubDate>Mon, 15 Aug 2016 11:58:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Sevenhugs' Smart Remote]]></title>
+            <description><![CDATA[<article><h1>Sevenhugs' Smart Remote</h1><p>Looking to simplify the endless number of apps and interfaces used to control smart-home products, French start-up Sevenhugs has introduced the first "contextually aware" universal Smart Remote. In other words, it's the first remote to understand where it is in your home and what it's pointing at, allowing users to simply point and click to control devices instead of switching between apps.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/df1caa77bd36920224edf22d445e863c5b829e80.jpg"></article>]]></description>
+            <link>https://thegrid.ai/roland-kayn/sevenhugs-smart-remote/index.html</link>
+            <guid isPermaLink="false">13a76c7c-2b72-421e-99e4-f9683c766ff4</guid>
+            <pubDate>Mon, 15 Aug 2016 11:42:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Reduced Spoke Bicycles : Conceptual Bike]]></title>
+            <description><![CDATA[<article><h1>Reduced Spoke Bicycles : Conceptual Bike</h1><p>Conceptual Bike - Ion Lucin has simplified the design of a standard two-wheeler with his conceptual bike Baik that opts for three-spoked wheels, a limited use of lin...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/11d821ce44263ec917e4ecde74cfe3ebb341c975.jpg"></article>]]></description>
+            <link>http://www.trendhunter.com/trends/conceptual-bike</link>
+            <guid isPermaLink="false">d6342cb9-fd39-453e-8b7e-5994657a8a56</guid>
+            <pubDate>Sat, 13 Aug 2016 16:51:03 GMT</pubDate>
         </item>
     </channel>
 </rss>
