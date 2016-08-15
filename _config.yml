@@ -6,9 +6,13 @@ color:
   saturation: 0.3854723605327308
   rhythmicContrast: 0.022608420345932245
   brandColors:
-    - '#17BEBB'
-    - '#2E282A'
-    - '#CD5334'
-    - '#EDB88B'
-    - '#FAD8D6'
+    - '#FFFFFF'
+    - '#CCCCCC'
+    - '#999999'
+    - '#4D4D4D'
+    - '#333333'
 name: Roland Kayn
+navigation:
+  - name: Biography
+    id: 13a76c7c-2b72-421e-99e4-f9683c766ff4
+    type: content
