@@ -1,13 +1,13 @@
 ---
-description: ''
-dateModified: '2016-08-15T11:54:43.408Z'
-datePublished: '2016-08-15T11:55:42.839Z'
-title: Roland Kayn
-author: []
-publisher: {}
-via: {}
-starred: false
+datePublished: '2016-08-17T11:42:58.307Z'
 sourcePath: _posts/2016-08-15-roland-kayn.md
+author: []
+via: {}
+dateModified: '2016-08-17T11:42:57.757Z'
+title: ''
+publisher: {}
+description: ''
+starred: false
 inFeed: true
 hasPage: false
 inNav: false
@@ -16,7 +16,6 @@ _type: MediaObject
 ---
 # Roland Kayn
 
-  
 "**Erweiterungen und Grenzen des Instrumentalklangs"**- geschrieben für das Nachtprogramm des NDR, Hamburg 1959  
 - veröffentlicht in "Horyzonty Muzycky" (poln.), PWM Krakau 1966
 
@@ -65,7 +64,7 @@ Musik als "Zeitkunst" wird bekanntlich durch die uns umgebende Luft real erst er
 **CYBERNETIC SERENDIPITY**  
 Der Evolution des avancierten Komponierens - qualitativ betrachtet - nicht etwa getragen von den Modetrends des Serialismus, der Aleatorik bis hin zu dem Minimalismus indisch-amerikanischer Herkunft - ist in der zweiten Hälfte unsere Jahrhunderts eigentlich nur eine Perspektive erwachsen, die sich gegenüber den gängigen Ismen unter dem Kriterium der Innovation als stabil erweist, nämlich die, der Kybernetik.  
 Allgemein bekannt dürfte sein, dass die in den Schwesterkünsten der Musik - Electronic Art, Videokunst, viel früher als die im Bereich der Musik - tätigen Künstler, sich dieser neuen Verfahrensweisen bemächtigt haben. Am wenigsten scheint der Ansatz der Informatik erhellt zu sein, der nicht - wie irrtümlich in Kreisen der Musikwissenschaftler lang angenommen - nur die Übertragung von einem Ort zum anderen über "Kanäle" meint, sondern das Verarbeiten von Informationen, deren Differenzierung und Distribution in einem elektronischen Schaltsystem beinhaltet. So gesehen steht die Entwicklung auch noch Mitte der neunziger Jahre am Anfang einer Evolution, über deren Fortgang z.Zt. noch wenig prognostiziert werden kann. Aufgrund entscheidender Wahrnehmung bekam in den siebziger Jahren am Utrechter Instituut voor Sonologie der Rijksuniversiteit die These Kontur, dass speziell im Analog-Bereich elektroakustischer Systeme mit ihren integral bedingten vielfältigen Schwankungen und relativ grosser Instabilität bei der gegenseitigen Vernetzung, weit mehr Innovations-Outputs auftraten, als dies vergleichsweise mit digital gesteuerten Systemen der Fall war.  
-So gesehen bieten heuristische Verfahren mit dieser Technik, die etwa nach dem Prinzip der "trial and error"-Methode sich organisieren lassen - nicht mit zielgerichteten Verlaufsdirektiven ausgestattet - grundsätzlich aesthetisch höherwertige Resultate. 
+So gesehen bieten heuristische Verfahren mit dieser Technik, die etwa nach dem Prinzip der "trial and error"-Methode sich organisieren lassen - nicht mit zielgerichteten Verlaufsdirektiven ausgestattet - grundsätzlich aesthetisch höherwertige Resultate.
 
 Als unwahrscheinlicher Fakt kann gelten, dass das Unvorhersehbare bei der praktischen Studioarbeit plötzlich buchstäblich hereinbricht, wie dies beim Auffinden von CYBERNETIC SERENDIPITY geschah. Hier handelt es sich um ein Objet trouvé, das seine Konkretion aus einem sehr komplex angelegten elektronisch-autonomen System erfuhr, das keinerlei gerichtete Befehlsimpulse enthielt.   
 Da das Verfahren nicht nachvollziehbar ist, kommt der Dokumentation auf Tonträger besondere Bedeutung zu, da entsprechende Details nicht mitgeteilt werden können und die überkommene Autorschaft völlig abgedankt hat.  
