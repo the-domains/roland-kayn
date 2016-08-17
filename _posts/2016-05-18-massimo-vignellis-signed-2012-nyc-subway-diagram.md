@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-15T11:55:48.843Z'
+datePublished: '2016-08-17T11:47:47.976Z'
 sourcePath: _posts/2016-05-18-massimo-vignellis-signed-2012-nyc-subway-diagram.md
 inFeed: true
 hasPage: true
@@ -17,7 +17,7 @@ keywords:
 related: []
 author: []
 via: {}
-dateModified: '2016-08-15T11:46:09.187Z'
+dateModified: '2016-08-17T11:47:47.264Z'
 title: Roland Kayn
 app_links: []
 publisher:
@@ -25,7 +25,178 @@ publisher:
   name: Cool Hunting
   favicon: 'http://assets.coolhunting.com/favicon.ico'
   domain: www.coolhunting.com
-description: ''
+description: >-
+  Biography1933Roland Kayn wird am 3. September 1933 in Reutlingen (Deutschland)
+  geboren.1947Erster Musikuntericht in Klavier- und Violoncellospiel. Zur selben
+  Zeit Beginn des Studiums der Harmonielehre und des Kontrapunkts unter
+  Anleitung von Hugo Herrmann, der in der selben Stadt wohnt.1950Erste
+  bestimmende Höreindrücke moderner Musik.1951Erste Kompositionen:
+  Orchesterstück Nr. 1 METANOIA und KAMMER-KONZERT für sechs Solo-Bläser und
+  Schlagwerk.1952Beginn des regulären Musikstudiums an der Staatlichen
+  Hochschule für Musik in Stuttgart und an der Kirchenmusikschule in Esslingen
+  (Tonsatz bei Alexander von Albrecht und Helmut Bornefeld, Klavier bei Alfred
+  Kreutz und Helmut Rothweiler, Orgel bei Karl Gerok). Komponiert VARIATIONEN
+  ÜBER EIN THEMA VON GUSTAV MAHLER für Orchester (Partitur verschollen) und FÜNF
+  KLEINE KLAVIERSTÜCKE.1953Setzt das Musikstudium kontinuierlich fort und nimmt
+  an der Technischen Hochschule in Stuttgart am Arbeitskreis Max Benses teil.
+  Komponiert MEDITATIONEN für Orgel, die von seinem Studienfreund Martin Rössler
+  gespielt, vom Südwestfunk, Tübingen 1955 zur Ursendung gelangen.1954Kommt mit
+  Herbert Eimert in Verbindung. Gast im Elektronischen Studio des NWDR, Köln.
+  Komponiert die ABSURDE KANTATE nach Texten von Kaspar-Thomas Lenk für Bariton,
+  Sprecher, Chor und Instrumente sowie das Orgelwerk EVOKATION.1955Das
+  DIVERTIMENTO für zwei Klaviere ensteht. Die inzwischen vorliegenden
+  Kompositionen KLAVIERSTÜCKE, TOKKATA für Violine und Klavier, SONGS nach
+  Texten von Günther-Bruno Fuchs und STENOGRAMME nach Gedichten von K.Th. Lenk
+  gelangen in einem Konzert der Reihe Studio für Neue Musik in Reutlingen zur
+  Uraufführung. Instrumentiert das Orgelstück EVOKATION und die TOKKATA für
+  Violine und Klavier aus dem Jahr 1954 für großes Orchester. Schreibt
+  METAMORPHOSEN für Klarinette und Orchester. Abschluss-Examen als
+  Organist.1956Lernt Hans-Heinz Stuckenschmidt in Hamburg kennen und folgt
+  seiner Empfehlung, bei Boris Blacher in Berlin in seiner Meisterklasse an der
+  Staatlichen Musikhochschule weiter zu studieren. Setzt diesen Studiengang -
+  neben Seminaren bei Josef Rufer, Fritz Winckel und Oskar Sala - bis 1958 fort.
+  Nimmt erstmalig an den Internationalen Ferienkursen für Neue Musik in
+  Darmstadt teil. Beginn der Freundschaft mit Franco Evangelisti und Camillo
+  Togni. Arbeitet an den SEQUENZEN für Orchester.1957Uraufführung der SPEKTREN
+  für Streichquartett bei den Internationalen Ferienkursen in Darmstadt. Erhält
+  den Förderungspreis des "Bach-Preis" der Freien- und Hansestadt Hamburg.
+  Beendet QUANTEN für Klavier. Arbeitet an der Erforschung neuer Klangstrukturen
+  im instrumentalen Bereich.1958Im Rahmen der Reihe "Musik der Zeit" des NWDR,
+  Köln wird das KAMMERKONZERT uraufgeführt. Mit derselben Komposition erhält er
+  beim Festival von Karuizawa (Japan) den ersten Preis für das beste Werk eines
+  Ausländers. Zieht alle bis 1955 geschriebenen Stücke (zeitlich) zurück. Aloys
+  Kontarsky bringt in Darmstadt die QUANTEN zur Uraufführung. Der Hessische
+  Rundfunk in Frankfurt erteilt einen Kompositions-Auftrag für das Orchesterwerk
+  AGGREGATE.1959Bruno Maderna dirigiert in Darmstadt die Uraufführung der
+  AGGREGATE. Kommt mit Jozef Patkowski, Direktor des Experimentalstudios des
+  Polnischen Rundfunks, in Verbindung und erhält eine Einladung für einen
+  Arbeitsaufenthalt in Warschau. Beginn der elektronischen Komposition
+  IMPULSE.1960Erhält den "Rom-Preis". Aufenthalt in derselben Stadt. Arbeitet
+  mit der Gruppo Universitario Nuova Musica (GUNM) in Palermo zusammen und wird
+  Mitorganisator der ersten "Settimana Internazionale Nuova Musica":
+  Erstaufführung der SPEKTREN. Beendet die elektronische Komposition IMPULSE für
+  sieben Lautsprechergruppen und die Partitur zu VECTORS I für Kammerorchester.
+  Erarbeitet das Grundmodell für VECTORS II.1961Entwirft die graphische Partitur
+  PHASEN - Obelisk für Auschwitz für Vokalklänge und vier Schlagzeuggruppen.
+  Andrzej Markowski dirigiert die Uraufführung der VECTORS I anläßlich der
+  Musikbiennale in Venedig.1962Aufenthalt in Rom und Venedig. Uraufführung der
+  PHASEN - Obelisk für Auschwitz beim Festival Internazionale di Musica
+  Contemporanea in Venedig. Mit der Partitur zu VECTORS I wird der zweite Preis
+  beim Concorso Internazionale di Composizione della SIMC in der Kategorie
+  Kammerorchester gewonnen. Polnische Erstaufführung der VECTORS I beim Festival
+  Warschauer Herbst. Arbeitet im Elektronischen Studio des NWDR, Köln und im
+  Siemens-Studio in München. Beendet die Partitur zu GALAXIS - multiple
+  Klangstruktur für variables Instrumental-Ensemble. Arbeitet an der Partitur zu
+  ALLOTROPIE für multiple Instrumental-Formationen. Rome 1962 Rome1965
+  1963Uraufführung der SCHWINGUNGEN für fünf Klanggruppen, die 1961-62 als
+  Auftragswerk der Stadt Hamburg entstanden, anläßlich der Settimana di Nuova
+  Musica in Palermo. Diesem Werk wird der zweite Preis beim Concorso
+  Internazionale di Composizione della SIMC zugesprochen. Zwei Jahre später
+  erhält dasselbe Werk den ersten Preis der Biennale de Paris. Schreibt im
+  Auftrag des Südwestfunks Baden-Baden INERZIALI für fünf bis zwanzig Spieler.
+  Schwingungen 1961-19621964Zusammen mit Aldo Clementi und Franco Evangelisti
+  Gründung der Gruppo Internazionale d'Improvvisazione NUOVA CONSONANZA;
+  Mitwirkung als Organist. Beendigung der Komposition ALLOTROPIE. Bei den
+  Arbeiten treten in zunehmenden Maße kompositorische Redaktionsmethoden auf,
+  die ihren Ausgangspunkt im Auflösen akustisch-physikalischer Problemstellungen
+  haben. Essentielle Stimulanz erwächst aus den Bereichen der
+  Informationstheorie und einer nicht zielorientierten Kybernetik. Die
+  Entwicklung verläuft außerhalb der seriell-aleatorischen Tendenzen der 50er
+  Jahre in eine Richtung, die mit dem Terminus Kybernetische Musik zu
+  umschreiben ist. Im instrumentalen Bereich finden sich Prozesse
+  automatisch-elektronischer Provinienz, die in den Bereich des
+  organisch-sensitiven zurückgekoppelt erscheinen (GALAXIS,
+  ALLOTROPIE).1965Ausarbeitung der Partitur zu DIFFUSIONS für 1-4 elektronische
+  Orgeln. Aufnahme der Komposition bei verschiedenen Sendern: NDR, Hamburg,
+  Radio Bremen, Vara Hilversum u.a. Gibt Konzerte in Rom und Florenz mit der
+  Gruppo Internazionale d'Improvvisazione NUOVA CONSONANZA. Uraufführung der
+  INERZIALI in Donaueschingen.1966Pierre Boulez dirigiert die Uraufführung der
+  SIGNALS für sieben Klanggruppen in der Reihe "das neue werk" des NDR, Hamburg
+  mit eminenter Publikumsresonanz. Andrzej Markowski führt mit dem Orchestra
+  Sinfonica della RAI Torino erstmalig ALLOTROPIE beim Festival Warschauer
+  Herbst auf. Vorbereitungsarbeiten zu CYBERNETICS I (elektronisch). Nuova
+  Condolenza 1966 Kayn. Markowski. Wisznewski1967Erhält eine Eindladung, bei der
+  Jury zur "Biennale de Paris" mitzuwirken. Schallplattenaufnahme mit der Gruppo
+  Nuova Consonanza für RCA in Rom. Nimmt die Initiative für einen
+  Fernseh-Dokumentarfilm, der vom NDR Hamburg in Rom gedreht wird (Gruppo
+  d'Improvvisazione NUOVA CONSONANZA). Beendet VECTORS II für
+  Orchester.1968Realisiert in einem provisorisch eingerichteten Studio beim NDR,
+  Hamburg die elektronische Komposition CYBERNETICS I. Abschluß der ersten
+  Version von CYBERNETICS II für sieben Chorgruppen, Klangerzeuger,
+  Schallquellen, Live-Elektronik und Tonband. Vorarbeiten für CYBERNETICS III.
+  Als Ausgangsmaterial werden ausschließlich Vokalklänge und Vokalgeräusche
+  menschlichen sowie tierischen Ursprungs verwendet. Französische Erstaufführung
+  der SCHWINGUNGEN beim ORTF in Paris unter dem Dirigenten Charles Bruck.
+  Verläßt die Gruppo NUOVA CONSONANZA. Führt zusammen mit Karl-Erik Welin,
+  Torsten Nilsson und Gunnar Valkare erstmalig in Quadrophonie die DIFFUSIONS
+  für Sveriges Radio in Stockholm auf.1969Produziert im Studio di Fonologia
+  della RAI, Milano CYBERNETICS III. Uraufführung des Werkes beim Festival
+  Internazionale di Musica Contemporanea in Venedig. Bei den "Tage für Neue
+  Musik" des NDR, Hannover werden die SEQUENZEN für Orchester uraufgeführt.
+  Studio di Fonologia RAI Milano1970Abschluß der definitiven Version von
+  CYBERNETICS II. Erhält die Einladung, im Studio des Instituuts voor Sonologie
+  der Rijksuniversiteit in Utrecht zu arbeiten. Realisation ENTROPY PE 31. Wird
+  in die Jury des Internationalen Gaudeamus-Kompositions-Wettbewerbs berufen,
+  sowie in gleicher Funktion, in die des
+  Angelicum-Edizioni-Suvini-Zerboni-Wettbewerbs in Mailand. Wird
+  Programm-Referent am Goethe-Institut Amsterdam. In Zusammenarbeit mit der
+  Stiftung Gaudeamus in Bilthoven und VARA-Radio Hilversum: Gründung der Reihe
+  "Forum der neuen Musik" beim Goethe-Institut; Beginn der Reihe "film +
+  experiment" in Zusammenarbeit zwischen Museen und Goethe-Institut, die
+  landesweit bis 1989 in zehn Städten veranstaltet wird. Rolf Liebermann
+  eröffnet die Möglichkeit, an der Staatsoper im September ein Simultan-Konzert
+  in allen Räumen zu veranstalten, das der elektronischen Musik von diversen
+  Studios gewidmet ist: Uraufführung ENTROPY PE 31 in Hamburg. Vielfältiges
+  Presseecho von zustimmender und ablehnender Art.1971Realisiert am Instituut
+  voor Sonologie in Utrecht die elektronische Komposition MONADES. Im Rahmen der
+  Ausstellung "Computer + Kunst" in Amsterdam nimmt er zusammen mit Max Bense,
+  Jan Aler u.a. an einem Symposium zum gleichen Thema teil, das vom Instituut
+  voor Esthetica der Universität veranstaltet wird. Fertigstellung der
+  AGGREGATES SONORES für Orchester. Heirat mit Lydia Onrust.1972Abschluß der
+  Arbeit an SIMULTAN, ein kybernetisch-elektronisches Projekt für 1-5 Räume.
+  Experimentiert im Studio de Recherche et de Structurations électroniques
+  Auditives in Bruxelles. Entwirft die CIRCUITS INTEGRES für 1-4 Klaviere, 1-6
+  Schlagzeuger, Live-Elektronik und Tonband. Nimmt an dem Internationalen
+  Kongress für Musikalische Graphik, den das Istituto Latino-americano in Rom
+  veranstaltet, teil. Geburt der Tochter Ilse-Emily. Rijks Universiteit
+  Instituut voor Sonologie, Utrecht.1973Peter Roggenkamp führt zusammen mit dem
+  Komponisten die CIRCUITS INTEGRES am 25. November zum erstenmal im Stedelijk
+  Museum in Amsterdam - sowie danach in Den Haag, Utrecht und Eindhoven - auf.
+  Anläßlich der Biennale in Venedig erfahren die VECTORS II für Orchester mit
+  dem NDR-Sinfonie-Orchester, Hamburg unter Leitung von Andrzej Markowski ihre
+  Première. Der Organist Karl-Erik Welin spielt in einem Konzert in Stockholm
+  die MEDITATIONEN für Orgel öffentlich. Daniele Paris dirigiert die
+  italienische Erstaufführung der INERZIALI in Rom beim Festival Nuova
+  Consonanza. 1974Les Percussions de Strasbourg und der Radio-Kamerkoor
+  Hilversum präsentieren unter Leitung von Bernhard Kontarsky die PHASEN in
+  Amsterdam (Concertgebouw), Rotterdam (Concertgebouw De Doelen), Eindhoven
+  (Philips-Centrum) und Bruxelles (Palais des Beaux Arts) mit fulminantem
+  Erfolg. Der Dirigent Paul Hupperts übernimmt die Studio-Produktion der VECTORS
+  I mit dem Radio-kamerorkest, Hilversum. Unter der bewährten Leitung von
+  Andrzej Markowski werden die VECTORS II mit dem Rundfunk Sinfonie-Orchester
+  Frankfurt beim Festival Warschauer Herbst gespielt und erzielen nachhaltige
+  Resonanz. In der Kunsthalle Bremen gelangt SIMULTAN zur Uraufführung
+  (Auftragswerk für die Reihe pro musica nova, Radio Bremen). Eine Ausstellung
+  "Roland Kayn - Graphische Partituren und Dokumente" ergänzen die täglich
+  zweimal stattfindenden Vorführungen. Radio Hilversum (KRO) vergibt den
+  Auftrag, für die Reihe "Komponist + Radio" ein vierteiliges radiophonisches
+  Projekt zu gestalten ("Versuch eines Musik-Atlas"). Nimmt im Anschluß an die
+  Arnold Schönberg-Gedächtnis-Ausstellung, die an das Amsterdamer Van Gogh
+  Museum vermittelt wird, die Initiative zur Gründung eines jährlich
+  stattfindenden Internationalen Schönberg-Klavier-Wettbewerbs für den das
+  Goethe-Institut und die Stiftung Gaudeamus in Verbindung mit der Rotterdamer
+  Kunststichting als Trägerorganisationen gewonnen werden können. Wird von
+  seinem Arbeitgeber Goethe-Institut aus bürokratischen Gründen
+  personalpolitisch unter Druck gesetzt und führt mit Unterstützung der
+  "Gewerkschaft Erziehung und Wissenschaft" Arbeitsprozesse, die sich bis 1993
+  hinziehen und vom Komponisten schließlich gewonnen werden. Beendet die
+  Partitur zu ENGRAMME für 15-60 disponible Instrumente.  ENGRAMME1975Teilnahme
+  am Festival Internationale de la Musique Experimentale in Bourges mit der
+  französischen Erstaufführung von SIMULTAN im Maison de la Culture. Die Tage
+  für Neue Musik in Bonn werden Roland Kayn gewidmet. Täglich finden mehrmals
+  Aufführungen von SIMULTAN über 32 Kanäle statt; Workshops, Bandvorführungen
+  instrumentaler Musik und Diskussionen werden non-stop im Studio und den Foyers
+  der Beethoven-Halle abgehalten.
 inLanguage: en
 inNav: false
 starred: true
@@ -36,21 +207,8 @@ _type: MediaObject
 ---
 <article style=""><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8f32d0a35a78621feb4c771f37440467815b250e.jpg" /><h1>Biography</h1><p>Roland Kayn</p></article>
 
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
 # Roland Kayn
 
-  
 **Biography**1933Roland Kayn wird am 3\. September 1933 in Reutlingen (Deutschland) geboren.1947Erster Musikuntericht in Klavier- und Violoncellospiel. Zur selben Zeit Beginn des Studiums der Harmonielehre und des Kontrapunkts unter Anleitung von Hugo Herrmann, der in der selben Stadt wohnt.1950Erste bestimmende Höreindrücke moderner Musik.1951Erste Kompositionen: Orchesterstück Nr. 1 METANOIA und KAMMER-KONZERT für sechs Solo-Bläser und Schlagwerk.1952Beginn des regulären Musikstudiums an der Staatlichen Hochschule für Musik in Stuttgart und an der Kirchenmusikschule in Esslingen (Tonsatz bei Alexander von Albrecht und Helmut Bornefeld, Klavier bei Alfred Kreutz und Helmut Rothweiler, Orgel bei Karl Gerok). Komponiert VARIATIONEN ÜBER EIN THEMA VON GUSTAV MAHLER für Orchester (Partitur verschollen) und FÜNF KLEINE KLAVIERSTÜCKE.1953Setzt das Musikstudium kontinuierlich fort und nimmt an der Technischen Hochschule in Stuttgart am Arbeitskreis Max Benses teil. Komponiert MEDITATIONEN für Orgel, die von seinem Studienfreund Martin Rössler gespielt, vom Südwestfunk, Tübingen 1955 zur Ursendung gelangen.1954Kommt mit Herbert Eimert in Verbindung. Gast im Elektronischen Studio des NWDR, Köln. Komponiert die ABSURDE KANTATE nach Texten von Kaspar-Thomas Lenk für Bariton, Sprecher, Chor und Instrumente sowie das Orgelwerk EVOKATION.1955Das DIVERTIMENTO für zwei Klaviere ensteht. Die inzwischen vorliegenden Kompositionen KLAVIERSTÜCKE, TOKKATA für Violine und Klavier, SONGS nach Texten von Günther-Bruno Fuchs und STENOGRAMME nach Gedichten von K.Th. Lenk gelangen in einem Konzert der Reihe Studio für Neue Musik in Reutlingen zur Uraufführung. Instrumentiert das Orgelstück EVOKATION und die TOKKATA für Violine und Klavier aus dem Jahr 1954 für großes Orchester. Schreibt METAMORPHOSEN für Klarinette und Orchester. Abschluss-Examen als Organist.1956Lernt Hans-Heinz Stuckenschmidt in Hamburg kennen und folgt seiner Empfehlung, bei Boris Blacher in Berlin in seiner Meisterklasse an der Staatlichen Musikhochschule weiter zu studieren. Setzt diesen Studiengang - neben Seminaren bei Josef Rufer, Fritz Winckel und Oskar Sala - bis 1958 fort. Nimmt erstmalig an den Internationalen Ferienkursen für Neue Musik in Darmstadt teil. Beginn der Freundschaft mit Franco Evangelisti und Camillo Togni. Arbeitet an den SEQUENZEN für Orchester.1957Uraufführung der SPEKTREN für Streichquartett bei den Internationalen Ferienkursen in Darmstadt. Erhält den Förderungspreis des "Bach-Preis" der Freien- und Hansestadt Hamburg. Beendet QUANTEN für Klavier. Arbeitet an der Erforschung neuer Klangstrukturen im instrumentalen Bereich.1958Im Rahmen der Reihe "Musik der Zeit" des NWDR, Köln wird das KAMMERKONZERT uraufgeführt. Mit derselben Komposition erhält er beim Festival von Karuizawa (Japan) den ersten Preis für das beste Werk eines Ausländers. Zieht alle bis 1955 geschriebenen Stücke (zeitlich) zurück. Aloys Kontarsky bringt in Darmstadt die QUANTEN zur Uraufführung. Der Hessische Rundfunk in Frankfurt erteilt einen Kompositions-Auftrag für das Orchesterwerk AGGREGATE.1959Bruno Maderna dirigiert in Darmstadt die Uraufführung der AGGREGATE. Kommt mit Jozef Patkowski, Direktor des Experimentalstudios des Polnischen Rundfunks, in Verbindung und erhält eine Einladung für einen Arbeitsaufenthalt in Warschau. Beginn der elektronischen Komposition IMPULSE.1960Erhält den "Rom-Preis". Aufenthalt in derselben Stadt. Arbeitet mit der Gruppo Universitario Nuova Musica (GUNM) in Palermo zusammen und wird Mitorganisator der ersten "Settimana Internazionale Nuova Musica": Erstaufführung der SPEKTREN. Beendet die elektronische Komposition IMPULSE für sieben Lautsprechergruppen und die Partitur zu VECTORS I für Kammerorchester. Erarbeitet das Grundmodell für VECTORS II.1961Entwirft die graphische Partitur PHASEN - Obelisk für Auschwitz für Vokalklänge und vier Schlagzeuggruppen. Andrzej Markowski dirigiert die Uraufführung der VECTORS I anläßlich der Musikbiennale in Venedig.1962Aufenthalt in Rom und Venedig. Uraufführung der PHASEN - Obelisk für Auschwitz beim Festival Internazionale di Musica Contemporanea in Venedig. Mit der Partitur zu VECTORS I wird der zweite Preis beim Concorso Internazionale di Composizione della SIMC in der Kategorie Kammerorchester gewonnen. Polnische Erstaufführung der VECTORS I beim Festival Warschauer Herbst. Arbeitet im Elektronischen Studio des NWDR, Köln und im Siemens-Studio in München. Beendet die Partitur zu GALAXIS - multiple Klangstruktur für variables Instrumental-Ensemble. Arbeitet an der Partitur zu ALLOTROPIE für multiple Instrumental-Formationen.  
 **Rome 1962**  
 **Rome1965**  
