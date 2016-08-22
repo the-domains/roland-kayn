@@ -1,5 +1,9 @@
 ---
-id: 2ee582fd-3daf-46b5-bf51-07e39c82a2fb
+datePublished: '2016-08-22T19:39:20.067Z'
+sourcePath: _posts/2016-05-18-massimo-vignellis-signed-2012-nyc-subway-diagram.md
+hasPage: true
+author: []
+via: {}
 metadata:
   datePublished: '2016-08-22T19:04:48.033Z'
   sourcePath: _posts/2016-05-18-massimo-vignellis-signed-2012-nyc-subway-diagram.md
@@ -32,18 +36,14 @@ metadata:
     geboren.
   inLanguage: en
   inNav: false
-dateModified: '2016-08-22T19:26:04.130Z'
+dateModified: '2016-08-22T19:39:19.258Z'
 title: Biography
-datePublished: '2016-08-22T19:26:06.195Z'
-author: []
-hasPage: true
+id: 2ee582fd-3daf-46b5-bf51-07e39c82a2fb
+publisher: {}
 description: >-
   1933: Roland Kayn wird am 3. September 1933 in Reutlingen (Deutschland)
   geboren.
-publisher: {}
-via: {}
 starred: true
-sourcePath: _posts/2016-05-18-massimo-vignellis-signed-2012-nyc-subway-diagram.md
 url: roland-kayn/index.html
 _type: Blurb
 
