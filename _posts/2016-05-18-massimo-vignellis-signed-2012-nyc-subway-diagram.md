@@ -1,35 +1,51 @@
 ---
-datePublished: '2016-08-22T19:04:48.033Z'
-sourcePath: _posts/2016-05-18-massimo-vignellis-signed-2012-nyc-subway-diagram.md
-inFeed: true
-hasPage: true
-keywords:
-  - vignelli
-  - superwarmred
-  - poster
-  - designs
-  - subway
-  - cifuentes
-  - waterhouse
-  - mta
-  - map
-  - diagram
-related: []
-author: []
-via: {}
-dateModified: '2016-08-22T19:04:47.430Z'
+id: 2ee582fd-3daf-46b5-bf51-07e39c82a2fb
+metadata:
+  datePublished: '2016-08-22T19:04:48.033Z'
+  sourcePath: _posts/2016-05-18-massimo-vignellis-signed-2012-nyc-subway-diagram.md
+  inFeed: true
+  isBasedOnUrl: >-
+    http://www.coolhunting.com/design/massimo-vignelli-2012-nyc-subway-signed-poster
+  hasPage: true
+  keywords:
+    - vignelli
+    - superwarmred
+    - poster
+    - designs
+    - subway
+    - cifuentes
+    - waterhouse
+    - mta
+    - map
+    - diagram
+  related: []
+  author: []
+  via: {}
+  '@context': 'http://schema.org'
+  dateModified: '2016-08-22T19:04:48.033Z'
+  title: Biography
+  '@type': MediaObject
+  app_links: []
+  publisher: {}
+  description: >-
+    1933: Roland Kayn wird am 3. September 1933 in Reutlingen (Deutschland)
+    geboren.
+  inLanguage: en
+  inNav: false
+dateModified: '2016-08-22T19:26:04.130Z'
 title: Biography
-app_links: []
-publisher: {}
+datePublished: '2016-08-22T19:26:06.195Z'
+author: []
+hasPage: true
 description: >-
   1933: Roland Kayn wird am 3. September 1933 in Reutlingen (Deutschland)
   geboren.
-inLanguage: en
-inNav: false
+publisher: {}
+via: {}
 starred: true
+sourcePath: _posts/2016-05-18-massimo-vignellis-signed-2012-nyc-subway-diagram.md
 url: roland-kayn/index.html
-_context: 'http://schema.org'
-_type: MediaObject
+_type: Blurb
 
 ---
 ![Kayn outside xxx, 19xx](https://the-grid-user-content.s3-us-west-2.amazonaws.com/58e4ff7b-038c-4bde-98e5-b421397d17eb.jpg)
