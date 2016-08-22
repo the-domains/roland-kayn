@@ -21,9 +21,9 @@ metadata:
     musical quest through composition with the intention, strange as it may
     seem, of excluding the composer as much as possible. He concentrated solely
     on electronic and electro-acoustic music from 1970 onwards.
-dateModified: '2016-08-22T19:26:22.708Z'
+dateModified: '2016-08-22T19:37:55.011Z'
 title: Introduction
-datePublished: '2016-08-22T19:26:23.758Z'
+datePublished: '2016-08-22T19:37:55.899Z'
 author: []
 hasPage: true
 description: >-
@@ -40,8 +40,8 @@ description: >-
   electro-acoustic music from 1970 onwards.
 publisher: {}
 via: {}
-starred: false
 sourcePath: _posts/2016-08-13-introduction.md
+starred: false
 url: introduction/index.html
 _type: Blurb
 
