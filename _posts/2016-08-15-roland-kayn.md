@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-22T19:19:43.043Z'
+datePublished: '2016-08-22T19:26:16.438Z'
 author: []
 via: {}
 metadata:
@@ -17,20 +17,19 @@ metadata:
       Nachtprogramm des NDR, Hamburg 1959- veröffentlicht in "Horyzonty Muzycky"
       (poln.), PWM Krakau 1966
   dateModified: '2016-08-22T19:15:57.977Z'
-dateModified: '2016-08-22T19:19:42.344Z'
+dateModified: '2016-08-22T19:26:15.161Z'
 title: Bibliography
 id: 423c3076-7c8b-40c5-8355-13cda26056a5
 publisher: {}
 description: >-
-  "Erweiterungen und Grenzen des Instrumentalklangs" - geschrieben für das
-  Nachtprogramm des NDR, Hamburg 1959 - veröffentlicht in "Horyzonty Muzycky"
+  "Erweiterungen und Grenzen des Instrumentalklangs"- geschrieben für das
+  Nachtprogramm des NDR, Hamburg 1959- veröffentlicht in "Horyzonty Muzycky"
   (poln.), PWM Krakau 1966
-starred: false
 sourcePath: _posts/2016-08-15-roland-kayn.md
-inFeed: true
-hasPage: false
-inNav: false
-_type: MediaObject
+hasPage: true
+starred: false
+url: bibliography/index.html
+_type: Blurb
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/dcafc80b-a897-4d27-930b-e6243ad8fd20.jpg)
