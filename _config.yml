@@ -22,5 +22,8 @@ navigation:
   - name: Bibliography
     id: 423c3076-7c8b-40c5-8355-13cda26056a5
     type: content
+  - name: Introduction
+    id: 8972817b-fc80-43ad-9ef3-22ff115b2fbc
+    type: content
 title: Roland Kayn
 description: Composer (1933-2011)
