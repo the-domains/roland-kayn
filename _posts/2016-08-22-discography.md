@@ -1,10 +1,10 @@
 ---
-datePublished: '2016-08-22T19:29:37.278Z'
+datePublished: '2016-08-22T19:38:00.418Z'
 sourcePath: _posts/2016-08-22-discography.md
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-08-22T19:29:36.667Z'
+dateModified: '2016-08-22T19:37:58.895Z'
 title: Discography
 publisher: {}
 description: ''
