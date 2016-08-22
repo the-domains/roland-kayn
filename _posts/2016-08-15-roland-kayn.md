@@ -1,22 +1,40 @@
 ---
-datePublished: '2016-08-22T19:10:30.648Z'
-sourcePath: _posts/2016-08-15-roland-kayn.md
+datePublished: '2016-08-22T19:19:43.043Z'
 author: []
 via: {}
-dateModified: '2016-08-22T19:10:29.884Z'
+metadata:
+  id: 423c3076-7c8b-40c5-8355-13cda26056a5
+  metadata:
+    datePublished: '2016-08-22T19:10:30.648Z'
+    sourcePath: _posts/2016-08-15-roland-kayn.md
+    author: []
+    via: {}
+    dateModified: '2016-08-22T19:10:30.648Z'
+    title: Bibliography
+    publisher: {}
+    description: >-
+      "Erweiterungen und Grenzen des Instrumentalklangs"- geschrieben für das
+      Nachtprogramm des NDR, Hamburg 1959- veröffentlicht in "Horyzonty Muzycky"
+      (poln.), PWM Krakau 1966
+  dateModified: '2016-08-22T19:15:57.977Z'
+dateModified: '2016-08-22T19:19:42.344Z'
 title: Bibliography
+id: 423c3076-7c8b-40c5-8355-13cda26056a5
 publisher: {}
 description: >-
   "Erweiterungen und Grenzen des Instrumentalklangs" - geschrieben für das
   Nachtprogramm des NDR, Hamburg 1959 - veröffentlicht in "Horyzonty Muzycky"
   (poln.), PWM Krakau 1966
 starred: false
+sourcePath: _posts/2016-08-15-roland-kayn.md
 inFeed: true
 hasPage: false
 inNav: false
 _type: MediaObject
 
 ---
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/dcafc80b-a897-4d27-930b-e6243ad8fd20.jpg)
+
 # Bibliography
 
 "**Erweiterungen und Grenzen des Instrumentalklangs"**  
@@ -84,14 +102,14 @@ Allgemein bekannt dürfte sein, dass die in den Schwesterkünsten der Musik - El
 
 So gesehen bieten heuristische Verfahren mit dieser Technik, die etwa nach dem Prinzip der "trial and error"-Methode sich organisieren lassen - nicht mit zielgerichteten Verlaufsdirektiven ausgestattet - grundsätzlich aesthetisch höherwertige Resultate.
 
-Als unwahrscheinlicher Fakt kann gelten, dass das Unvorhersehbare bei der praktischen Studioarbeit plötzlich buchstäblich hereinbricht, wie dies beim Auffinden von CYBERNETIC SERENDIPITY geschah. Hier handelt es sich um ein Objet trouvé, das seine Konkretion aus einem sehr komplex angelegten elektronisch-autonomen System erfuhr, das keinerlei gerichtete Befehlsimpulse enthielt. 
+Als unwahrscheinlicher Fakt kann gelten, dass das Unvorhersehbare bei der praktischen Studioarbeit plötzlich buchstäblich hereinbricht, wie dies beim Auffinden von CYBERNETIC SERENDIPITY geschah. Hier handelt es sich um ein Objet trouvé, das seine Konkretion aus einem sehr komplex angelegten elektronisch-autonomen System erfuhr, das keinerlei gerichtete Befehlsimpulse enthielt.
 
 Da das Verfahren nicht nachvollziehbar ist, kommt der Dokumentation auf Tonträger besondere Bedeutung zu, da entsprechende Details nicht mitgeteilt werden können und die überkommene Autorschaft völlig abgedankt hat.
 
 Diese "Musik" übersteigt demnach die empirische Kategorie der Musik und beinhaltet vielleicht etwas von dem, was der Komponist Franco Evangelisti in seinem Buch "Vom Schweigen zu einer neuen Klangwelt" (Verlag: Edition TEXT und KRITIK, München, 1985) mit dem Terminus - "zu etwas kommen, was einmal nicht mehr Musik benannt werden kann", treffend prognostizierte.
 
 **TRANSFLUXION**  
-In den letzten Jahren traten bei der kompositorischen Arbeitsweise zunehmend Verfahren in den Vordergrund, die nicht algorhythmisch fassbar sind, da die Element- mengen erst im Augenblick ihrer akustischen Umsetzung ihre Verlaufsrichtung annehmen. Im instrumentalen Bereich kann dies an der Partitur zu "Engramme" für 15-60 disponible Spieler (Verlag: Edizioni Suvini Zerboni, Milano, 1973) am eklatantesten aufgezeigt werden, eine Tendenz also, der die fortschreitende Entmythologisierung des derzeitigen Musikmachens extrem gegenüber steht. Da der Ausführende und der Konsument keine ausschlaggebende Rolle im Hinblick auf die künftige Verwendung der Musik mehr einnimmt, kommt es auch nicht mehr auf die Exaktheit an, die z.B. mittels eines Computers mühelos zu stande kommt. Anders gesagt eignen sich rechengestützte Entwürfe vorab wohl kaum für die Findung kompositorischen Neulands, da diese, wenn auch mit Unbestimmtheitsfaktoren gerechnet wird, besser zur Analyse im Nachhinein verwendet werden können. Da Musik grössenteils aus der Sicht soziologischer Verankerung heraus produziert wird, hat es jene andere, die nicht unter diesem Aspekt ensteht, unvergleichlich schwerer, den doch kaschiert, hypotetisch vorhandenen Adressaten zu erreichen, zumal die Mittler Konzertagent, Orchester, Dirigent und Solisten aus der Relation Komponist/Hörer ausgeklammert sind (Elektronik). 
+In den letzten Jahren traten bei der kompositorischen Arbeitsweise zunehmend Verfahren in den Vordergrund, die nicht algorhythmisch fassbar sind, da die Element- mengen erst im Augenblick ihrer akustischen Umsetzung ihre Verlaufsrichtung annehmen. Im instrumentalen Bereich kann dies an der Partitur zu "Engramme" für 15-60 disponible Spieler (Verlag: Edizioni Suvini Zerboni, Milano, 1973) am eklatantesten aufgezeigt werden, eine Tendenz also, der die fortschreitende Entmythologisierung des derzeitigen Musikmachens extrem gegenüber steht. Da der Ausführende und der Konsument keine ausschlaggebende Rolle im Hinblick auf die künftige Verwendung der Musik mehr einnimmt, kommt es auch nicht mehr auf die Exaktheit an, die z.B. mittels eines Computers mühelos zu stande kommt. Anders gesagt eignen sich rechengestützte Entwürfe vorab wohl kaum für die Findung kompositorischen Neulands, da diese, wenn auch mit Unbestimmtheitsfaktoren gerechnet wird, besser zur Analyse im Nachhinein verwendet werden können. Da Musik grössenteils aus der Sicht soziologischer Verankerung heraus produziert wird, hat es jene andere, die nicht unter diesem Aspekt ensteht, unvergleichlich schwerer, den doch kaschiert, hypotetisch vorhandenen Adressaten zu erreichen, zumal die Mittler Konzertagent, Orchester, Dirigent und Solisten aus der Relation Komponist/Hörer ausgeklammert sind (Elektronik).
 
 Die Schöpfer einer Tonkunst heute haben die Verpflichtung wahrzunehmen, die Mittel der Technik adäquat in ihr Tun einfliessen zu lassen, und sich der noch gegebenen Situation, Hofnarren, gegenüber Ausschüssen, Kommisionen, Räten, Kulturbeauftragten und letztlich derjenigen, der Politik, zu sein, zu entledigen. Dieser Forderung kann derzeit nur in der Abgeschiedenheit eines freien Studios für elektroakustische Musik entsprochen werden. Ein soloher Ort stand für die Werkrealisierung von 1970 bis 1984 an der Rijksuniversiteit in Utrecht zur Verfügung. Für die Komposition TRANSFLUXION diente ein Residue-Material als Ausgangspunkt, das zufällig im Archiv aufgefunden - plötzlich unter anderen Hörvoraussetzungen - Aktualität annahm. Getragen von äusserst langsam verlaufenden Klangmodulationen ergab sich die Aufgabenstellung, das torsoartige Gebilde in einen Gesamtkontext zu integrieren, der annähernd den schwebenden hinübergleitenden Aspekt eines Phasenwechsels, wie er im Bereich von Infraschall auftritt, haben sollte.
 
@@ -105,7 +123,7 @@ Die Entstehung des Stückes lässt sich zu einem guten Teil aus der Sicht auf di
 Für einen kreativen homo sapiens heute bedeutet dies nichts anderes, dass er sich nicht rückwärts gerichtet durch die Medien mit Bildern und Tönen speisen lässt - angefangen von den Objekten, die für Fürstenhöfe geschaffen worden sind und in der Nachfolge bis zu den Aufträgen lokaler Kulturbeauftragter reichen - sondern zukunftsgerichtet sein aesthetisches Verlangen konkretisieren muss.   
 Hierbei hilft ihm heute der herkömmliche Musikbetrieb mit seinem schwerfälligen und teuren Management (Verleger, Dirigent, Orchester, Kartenverkauf, Presse) nicht mehr. Er muss sich mit der ständig im Wandel befindlichen Studiotechnik elektroakustischer Provenienz auseinandersetzen um überhaupt zu innovativen Ergebnissen zu kommen und darüber hinaus die neuen Kommunikationsnetze nutzen.
 
-Die Sicht der Dinge führte zum "Environment", gleichsam eine "Hausmusik" - musica nuova reservata - , da das mediale Angebot einer totalen Verkümmering und Erdrosselung des "Geniessbaren" gleichkommt - eigentlich nur vergleichbar mit der vielzitierten Umwelt-Katastrophe, die sich heute als eine durch den Faschismus und Nazismus ferngesteuerte Situation verstehen lässt, wenn man nur an die Verherrlichung der Maschine, des Lärms und an die begonnene totale Automobilisierung Anfang der 30er Jahre denkt. 
+Die Sicht der Dinge führte zum "Environment", gleichsam eine "Hausmusik" - musica nuova reservata - , da das mediale Angebot einer totalen Verkümmering und Erdrosselung des "Geniessbaren" gleichkommt - eigentlich nur vergleichbar mit der vielzitierten Umwelt-Katastrophe, die sich heute als eine durch den Faschismus und Nazismus ferngesteuerte Situation verstehen lässt, wenn man nur an die Verherrlichung der Maschine, des Lärms und an die begonnene totale Automobilisierung Anfang der 30er Jahre denkt.
 
 Eine Musik also, die hierzu im krassen Gegensatz zu entwickeln ist, berücksichtigt die Funktionsweisen biologischer Systeme mit der ihnen immanenten Steuerung und Regelung, in dem sie diese Systemorientierung auf elektronisch autonome Prozessabläufe überträgt, um somit - wie hier der Fall - zu einem Kommunikationsspiel im Bereich der physikalischen und perzeptionellen Mechanismen, unter Berücksichtigung der Rückkopplung, zu kommen, allerdings unter Auslassung der Anknüpfung an Traditionen und heutiger Marktmechanismen - nur sich selbst gehorchend, denn: der elektrische Strom kennt keine Erinnerung, regelt sich nicht auf das Heute ein und ist somit in hohem Mass legitimiert, unwahrscheinliche Phänomene freizusetzen.
 
