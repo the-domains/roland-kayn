@@ -1,12 +1,31 @@
 ---
-datePublished: '2016-08-22T19:15:52.274Z'
-sourcePath: _posts/2016-08-13-introduction.md
-hasPage: true
-author: []
-via: {}
-dateModified: '2016-08-22T19:15:41.856Z'
+id: 8972817b-fc80-43ad-9ef3-22ff115b2fbc
+metadata:
+  datePublished: '2016-08-22T19:15:52.274Z'
+  sourcePath: _posts/2016-08-13-introduction.md
+  hasPage: true
+  author: []
+  via: {}
+  dateModified: '2016-08-22T19:15:52.274Z'
+  title: Introduction
+  publisher: {}
+  description: >-
+    Roland Kayn was born in Germany in 1933 and started composing at an early
+    age. He was just 20 years old when he won first prize at the festival of
+    20th century music in Karuizawa, Japan. Performances of his composition
+    Aggregate (1959) resulted in him becoming persona non grata on the concert
+    stage. Shortly after working in electronic studios in Poland, Germany and
+    Italy, he joined the Gruppo Nuova Consonanza and this crucial detour into
+    improvisation with Franco Evangelisti, Aldo Clementi and Ennio Morricone
+    helped him find his definitive musical direction. Kayn decided to pursue his
+    musical quest through composition with the intention, strange as it may
+    seem, of excluding the composer as much as possible. He concentrated solely
+    on electronic and electro-acoustic music from 1970 onwards.
+dateModified: '2016-08-22T19:26:22.708Z'
 title: Introduction
-publisher: {}
+datePublished: '2016-08-22T19:26:23.758Z'
+author: []
+hasPage: true
 description: >-
   Roland Kayn was born in Germany in 1933 and started composing at an early age.
   He was just 20 years old when he won first prize at the festival of 20th
@@ -19,7 +38,10 @@ description: >-
   composition with the intention, strange as it may seem, of excluding the
   composer as much as possible. He concentrated solely on electronic and
   electro-acoustic music from 1970 onwards.
+publisher: {}
+via: {}
 starred: false
+sourcePath: _posts/2016-08-13-introduction.md
 url: introduction/index.html
 _type: Blurb
 
