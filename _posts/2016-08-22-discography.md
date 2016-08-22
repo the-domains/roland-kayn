@@ -1,16 +1,17 @@
 ---
 description: ''
-dateModified: '2016-08-22T19:25:53.544Z'
-datePublished: '2016-08-22T19:25:54.325Z'
+dateModified: '2016-08-22T19:25:33.639Z'
+datePublished: '2016-08-22T19:25:38.771Z'
 title: Discography
 author: []
 publisher: {}
 via: {}
-sourcePath: _posts/2016-08-22-discography.md
-hasPage: true
 starred: false
-url: discography/index.html
-_type: Blurb
+sourcePath: _posts/2016-08-22-discography.md
+inFeed: true
+hasPage: false
+inNav: false
+_type: MediaObject
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c597d407-aa24-4f56-9c38-3b656d67a56e.jpg)
