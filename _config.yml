@@ -16,5 +16,8 @@ navigation:
   - name: Biography
     id: 13a76c7c-2b72-421e-99e4-f9683c766ff4
     type: content
+  - name: Discography
+    id: 7eb0a8b3-8851-453e-be13-b0346381b316
+    type: content
 title: Roland Kayn
 description: Composer (1933-2011)
