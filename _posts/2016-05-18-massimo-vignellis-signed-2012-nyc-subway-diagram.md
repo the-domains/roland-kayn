@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-08-24T22:24:59.277Z'
+datePublished: '2016-08-24T22:37:35.149Z'
 sourcePath: _posts/2016-05-18-massimo-vignellis-signed-2012-nyc-subway-diagram.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-08-24T22:24:58.498Z'
+dateModified: '2016-08-24T22:37:34.053Z'
 title: Biography
 id: 2ee582fd-3daf-46b5-bf51-07e39c82a2fb
 publisher: {}
