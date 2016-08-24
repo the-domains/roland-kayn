@@ -1,16 +1,16 @@
-typography_spectrum: 0.9591394469607621
+layout_spectrum: 0.3723825761117041
+typography_spectrum: 0.18296504113823175
 color:
-  brandStrength: 0.2589092708658427
-  lightness: 0.15649363328702748
-  saturation: 0.3854723605327308
-  rhythmicContrast: 0.022608420345932245
+  brandStrength: 0.7428923081606627
+  lightness: 0.34629717795178294
+  saturation: 0.6861393286380917
+  rhythmicContrast: 0.9598301318474114
   brandColors:
-    - '#FFFFFF'
-    - '#CCCCCC'
-    - '#999999'
-    - '#4D4D4D'
-    - '#333333'
-layout_spectrum: 0.07076776935718954
+    - '#E7E8D1'
+    - '#D3CEAA'
+    - '#FBF7E4'
+    - '#424242'
+    - '#8E001C'
 name: Roland Kayn - Composer and artist
 navigation:
   - name: Biography
