@@ -16,5 +16,8 @@ navigation:
   - name: Discography
     id: 7eb0a8b3-8851-453e-be13-b0346381b316
     type: content
+  - name: Bibliography
+    id: 423c3076-7c8b-40c5-8355-13cda26056a5
+    type: content
 title: Official site
 description: 1933-2011
