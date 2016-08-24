@@ -13,14 +13,14 @@ color:
 layout_spectrum: 0.07076776935718954
 name: Roland Kayn - Composer and artist
 navigation:
+  - name: Biography
+    id: 2ee582fd-3daf-46b5-bf51-07e39c82a2fb
+    type: content
   - name: Discography
     id: 7eb0a8b3-8851-453e-be13-b0346381b316
     type: content
   - name: Bibliography
     id: 423c3076-7c8b-40c5-8355-13cda26056a5
-    type: content
-  - name: Biography
-    id: 2ee582fd-3daf-46b5-bf51-07e39c82a2fb
     type: content
 title: Official site
 description: 1933-2011
