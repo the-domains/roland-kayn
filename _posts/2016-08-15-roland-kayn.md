@@ -1,23 +1,8 @@
 ---
-datePublished: '2016-08-22T19:26:16.438Z'
+datePublished: '2016-08-24T22:37:26.996Z'
 author: []
 via: {}
-metadata:
-  id: 423c3076-7c8b-40c5-8355-13cda26056a5
-  metadata:
-    datePublished: '2016-08-22T19:10:30.648Z'
-    sourcePath: _posts/2016-08-15-roland-kayn.md
-    author: []
-    via: {}
-    dateModified: '2016-08-22T19:10:30.648Z'
-    title: Bibliography
-    publisher: {}
-    description: >-
-      "Erweiterungen und Grenzen des Instrumentalklangs"- geschrieben für das
-      Nachtprogramm des NDR, Hamburg 1959- veröffentlicht in "Horyzonty Muzycky"
-      (poln.), PWM Krakau 1966
-  dateModified: '2016-08-22T19:15:57.977Z'
-dateModified: '2016-08-22T19:26:15.161Z'
+dateModified: '2016-08-24T22:37:25.833Z'
 title: Bibliography
 id: 423c3076-7c8b-40c5-8355-13cda26056a5
 publisher: {}
