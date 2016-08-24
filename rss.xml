@@ -4,7 +4,7 @@
         <description><![CDATA[Official site]]></description>
         <link>https://thegrid.ai/roland-kayn/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 24 Aug 2016 22:21:45 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 24 Aug 2016 22:25:00 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/roland-kayn/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Introduction]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/roland-kayn/introduction/index.html</link>
             <guid isPermaLink="false">8972817b-fc80-43ad-9ef3-22ff115b2fbc</guid>
             <pubDate>Wed, 24 Aug 2016 22:21:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Biography]]></title>
+            <description><![CDATA[<article><h1>Biography</h1><p>1933: Roland Kayn wird am 3. September 1933 in Reutlingen (Deutschland) geboren.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/58e4ff7b-038c-4bde-98e5-b421397d17eb.jpg"></article>]]></description>
+            <link>https://thegrid.ai/roland-kayn/roland-kayn/index.html</link>
+            <guid isPermaLink="false">2ee582fd-3daf-46b5-bf51-07e39c82a2fb</guid>
+            <pubDate>Wed, 24 Aug 2016 22:24:59 GMT</pubDate>
         </item>
     </channel>
 </rss>
