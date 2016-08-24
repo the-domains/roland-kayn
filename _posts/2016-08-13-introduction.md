@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-08-24T22:20:05.770Z'
+datePublished: '2016-08-24T22:21:44.017Z'
 sourcePath: _posts/2016-08-13-introduction.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-08-24T22:20:05.142Z'
+dateModified: '2016-08-24T22:21:43.545Z'
 title: Introduction
 id: 8972817b-fc80-43ad-9ef3-22ff115b2fbc
 publisher: {}
